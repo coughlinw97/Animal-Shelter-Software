@@ -28,7 +28,7 @@ int main() {
 		cin >> response;
 
 		// Tests if user inputted valid response & asks for correct response until given
-		while (response != '1' && response != '2' && response && '3' && response != '4' && response != '5' && response != '6') {
+		while (response != '1' && response != '2' && response != '3' && response != '4' && response != '5' && response != '6') {
 			cout << "Invalid response...\nPlease enter valid operation" << endl;
 			cin.clear();
 			cin.ignore(1000, 'n');

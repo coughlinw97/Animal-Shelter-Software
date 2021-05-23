@@ -8,20 +8,8 @@
 using namespace std;
 
 void displayMenu();
-/*
-ofstream openOutFile(const char*);
-void closeOutFile(const char*);
-ifstream openInFile(const char*);
-void closeInFile(const char*);
-*/
 
 int main() {
-	/*
-	const char* dogFile = "DogData.txt";
-	const char* catFile = "CatData.txt";
-	const char* miscFile = "MiscAnimalData.txt";
-	const char* tempFile = "TempFile.txt";
-	*/
 	
 	char RESPONSE;
 
